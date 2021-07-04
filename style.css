@@ -15,8 +15,14 @@ section{
 p{
     text-align: justify;
 }
+.left{
+    width: 55%;
+}
+.right{
+    width: 45%;
+}
 .half-width{
-    width: 50%;
+
     padding-left: 5%
 }
 .half-width img{
