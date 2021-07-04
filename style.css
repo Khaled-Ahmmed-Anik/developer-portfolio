@@ -12,6 +12,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 p{
     text-align: justify;
@@ -41,4 +42,18 @@ p{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-right{
+    padding: 10%;
+    padding-right: 15%;
+}
+
+.dream-left{
+    padding: 5%;
+}
+.dream-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
